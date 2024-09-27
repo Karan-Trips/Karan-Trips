@@ -35,16 +35,14 @@
 <p align="center">
 
 <!-- Add Flutter and relevant tools -->
-<img src="https://img.icons8.com/color/452/flutter.png" alt="Flutter" width="100" height="50">
-<img src="https://img.icons8.com/color/452/dart.png" alt="Dart" width="100" height="50">
-<img src="https://img.icons8.com/color/344/firebase.png" alt="Firebase" width="100" height="50">
-<img src="https://img.icons8.com/color/344/api-settings.png" alt="API Design" width="100" height="50">
-<img src="https://img.icons8.com/color/452/android.png" alt="Android" width="100" height="50">
-<img src="https://img.icons8.com/ios-filled/344/ios-logo.png" alt="iOS" width="100" height="50">
-<img src="https://img.icons8.com/color/344/mobx.png" alt="MobX" width="100" height="50">
-<img src="https://img.icons8.com/color/452/git.png" alt="Git" width="100" height="50">
-<img src="https://img.icons8.com/color/344/visual-studio-code-2019.png" alt="VSCode" width="100" height="50">
-<img src="https://img.icons8.com/color/344/retrofit.png" alt="Retrofit" width="100" height="50">
+<img src="https://img.icons8.com/color/452/flutter.png" alt="Flutter" width="100" height="70">
+<img src="https://img.icons8.com/color/452/dart.png" alt="Dart" width="100" height="70">
+<img src="https://img.icons8.com/color/344/firebase.png" alt="Firebase" width="100" height="70">
+<img src="https://img.icons8.com/color/344/api-settings.png" alt="API Design" width="100" height="70">
+<img src="https://e7.pngegg.com/pngimages/718/930/png-clipart-android-software-development-android-fictional-character-mobile-app-development-thumbnail.png" alt="Android" width="100" height="70">
+<img src="https://img.icons8.com/ios-filled/344/ios-logo.png" alt="iOS" width="100" height="70">
+<img src="https://img.icons8.com/color/452/git.png" alt="Git" width="100" height="70">
+<img src="https://img.icons8.com/color/344/visual-studio-code-2019.png" alt="VSCode" width="100" height="70">
 </p>
 
 </br>
