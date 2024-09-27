@@ -1,85 +1,96 @@
 # Konichiwa 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<img height="300" width="700" alt="GIF" align="center" src="https://github.com/Karan-Trips/Karan-Trips/blob/main/assets/208593.gif">
 </div>
 
 </br>
 </br>
 </br>
 
-
 # About ME 💬 :
 
-### - I'm 23 years old Flutter developer from India.
+### - I'm a 24-year-old Flutter developer with 1 year of experience from India.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/13626.gif">
+<img height="400" width="500" alt="GIF" align="right" src="https://github.com/Karan-Trips/Karan-Trips/blob/main/assets/13626.gif">
 
-### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
+### - What I'm Learning :
+- ✨ Flutter for Web & Desktop
+- ✨ RESTful API Design & Integration with **Retrofit**
+- ✨ State Management with **MobX** and **Provider**
+- ✨ Advanced UI/UX designs with custom widgets and animations
 
 ### - Hobbies : 
-- ✨ Gaming Addict
+- ✨ Building scalable mobile apps
+- ✨ Gaming
 - ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+- ✨ Learning new backend technologies for mobile integration
 
 </br>
 </br>
 </br>
 
-
-
-# Languages & Tools 👨‍💻 🛠:
-</br>
+# Skills & Tools 👨‍💻 🛠:
 
 <p align="center">
 
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+<!-- Add Flutter and relevant tools -->
+<img src="https://img.icons8.com/color/452/flutter.png" alt="Flutter" width="100" height="50">
+<img src="https://img.icons8.com/color/452/dart.png" alt="Dart" width="100" height="50">
+<img src="https://img.icons8.com/color/344/firebase.png" alt="Firebase" width="100" height="50">
+<img src="https://img.icons8.com/color/344/api-settings.png" alt="API Design" width="100" height="50">
+<img src="https://img.icons8.com/color/452/android.png" alt="Android" width="100" height="50">
+<img src="https://img.icons8.com/ios-filled/344/ios-logo.png" alt="iOS" width="100" height="50">
+<img src="https://img.icons8.com/color/344/mobx.png" alt="MobX" width="100" height="50">
+<img src="https://img.icons8.com/color/452/git.png" alt="Git" width="100" height="50">
+<img src="https://img.icons8.com/color/344/visual-studio-code-2019.png" alt="VSCode" width="100" height="50">
+<img src="https://img.icons8.com/color/344/retrofit.png" alt="Retrofit" width="100" height="50">
 </p>
+
 </br>
 </br>
 </br>
 
+# Projects & Experience 🛠️:
 
+- **Project 1**: **Travel Companion App** – Integrated **Retrofit** for API calls, real-time tracking using **Google Maps API**, and Firebase authentication.
+- **Project 2**: **E-commerce App** – Built a complete **Flutter** UI with **MobX** for state management and integrated with RESTful APIs for product details and transactions.
+- **Project 3**: **Personal Finance App** – Designed advanced charts using `fl_chart` and handled network requests using **Dio** and **Retrofit** for syncing user data with cloud services.
+- **Project 4**: **Weather App** – Created a responsive UI using custom widgets and consumed **REST APIs** with **Retrofit** to display live weather data.
+
+</br>
+</br>
+
+# API, State Management & Tools 🚀:
+
+- **API Design**: Experience in designing and consuming RESTful APIs using **Retrofit** and **Dio** for seamless network communication.
+- **State Management**: Deep understanding of state management with **MobX**, **Provider**, and **Riverpod** for scalable app architectures.
+- **UI/UX Design**: Crafting clean, modern, and responsive UI/UX with custom widgets and Flutter animations.
+- **Firebase**: Proficient in integrating **Firebase** for real-time databases, authentication, and cloud storage.
+
+</br>
+</br>
 
 # Contact Me :
 
 <p>
- </br>
 
+If you want to reach out to me for Flutter development, API design, doubts, or collaborations, feel free to ping me 😉.
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
-
-<a href="mailto:ashutosh.saxena.2001@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+<a href="mailto:karan.trips@example.com">
+ <img align="left" alt="Gmail" width="130" height="100" src="https://img.icons8.com/fluent/452/gmail.png" />
 </a>
-<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+<a href="https://www.linkedin.com/in/karan-trips/">
+  <img align="left" alt="Linkedin" width="150" height="100" src="https://img.icons8.com/color/452/linkedin.png" />
 </br>
 </br>
 </br>
 </a>
-
-
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=Karan-Trips&&show_icons=true&theme=radical"/>
   </a>
-  </p>
+</p>
 
 *************
