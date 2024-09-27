@@ -35,14 +35,14 @@
 <p align="center">
 
 <!-- Add Flutter and relevant tools -->
-<img src="https://img.icons8.com/color/452/flutter.png" alt="Flutter" width="100" height="70">
-<img src="https://img.icons8.com/color/452/dart.png" alt="Dart" width="100" height="70">
-<img src="https://img.icons8.com/color/344/firebase.png" alt="Firebase" width="100" height="70">
-<img src="https://img.icons8.com/color/344/api-settings.png" alt="API Design" width="100" height="70">
-<img src="https://e7.pngegg.com/pngimages/718/930/png-clipart-android-software-development-android-fictional-character-mobile-app-development-thumbnail.png" alt="Android" width="100" height="70">
-<img src="https://img.icons8.com/ios-filled/344/ios-logo.png" alt="iOS" width="100" height="70">
-<img src="https://img.icons8.com/color/452/git.png" alt="Git" width="100" height="70">
-<img src="https://img.icons8.com/color/344/visual-studio-code-2019.png" alt="VSCode" width="100" height="70">
+<img src="https://img.icons8.com/color/452/flutter.png" alt="Flutter" width="120" height="85">
+<img src="https://img.icons8.com/color/452/dart.png" alt="Dart" width="120" height="85">
+<img src="https://img.icons8.com/color/344/firebase.png" alt="Firebase" width="120" height="85">
+<img src="https://img.icons8.com/color/344/api-settings.png" alt="API Design" width="120" height="85">
+<img src="https://e7.pngegg.com/pngimages/718/930/png-clipart-android-software-development-android-fictional-character-mobile-app-development-thumbnail.png" alt="Android" width="120" height="85">
+<img src="https://img.icons8.com/ios-filled/344/ios-logo.png" alt="iOS" width="120" height="85">
+<img src="https://img.icons8.com/color/452/git.png" alt="Git" width="120" height="70">
+<img src="https://img.icons8.com/color/344/visual-studio-code-2019.png" alt="VSCode" width="120" height="70">
 </p>
 
 </br>
@@ -75,11 +75,11 @@
 
 If you want to reach out to me for Flutter development, API design, doubts, or collaborations, feel free to ping me 😉.
 
-<a href="mailto:karan.trips@example.com">
- <img align="left" alt="Gmail" width="130" height="100" src="https://img.icons8.com/fluent/452/gmail.png" />
+<a href="mailto:karanboss652@gmail.com">
+ <img align="left" alt="Gmail" width="130" height="150" src="https://img.icons8.com/fluent/452/gmail.png" />
 </a>
-<a href="https://www.linkedin.com/in/karan-trips/">
-  <img align="left" alt="Linkedin" width="150" height="100" src="https://img.icons8.com/color/452/linkedin.png" />
+<a href="https://www.linkedin.com/in/karan-shankar-tripathi-86037b1b3/">
+  <img align="left" alt="Linkedin" width="150" height="150" src="https://img.icons8.com/color/452/linkedin.png" />
 </br>
 </br>
 </br>
