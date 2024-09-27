@@ -35,14 +35,14 @@
 <p align="center">
 
 <!-- Add Flutter and relevant tools -->
-<img src="https://img.icons8.com/color/452/flutter.png" alt="Flutter" width="120" height="85">
-<img src="https://img.icons8.com/color/452/dart.png" alt="Dart" width="120" height="85">
-<img src="https://img.icons8.com/color/344/firebase.png" alt="Firebase" width="120" height="85">
-<img src="https://img.icons8.com/color/344/api-settings.png" alt="API Design" width="120" height="85">
-<img src="https://e7.pngegg.com/pngimages/718/930/png-clipart-android-software-development-android-fictional-character-mobile-app-development-thumbnail.png" alt="Android" width="120" height="85">
-<img src="https://img.icons8.com/ios-filled/344/ios-logo.png" alt="iOS" width="120" height="85">
+<img src="https://img.icons8.com/color/452/flutter.png" alt="Flutter" width="120" height="100">
+<img src="https://img.icons8.com/color/452/dart.png" alt="Dart" width="120" height="100">
+<img src="https://img.icons8.com/color/344/firebase.png" alt="Firebase" width="120" height="100">
+<img src="https://img.icons8.com/color/344/api-settings.png" alt="API Design" width="120" height="100">
+<img src="https://e7.pngegg.com/pngimages/718/930/png-clipart-android-software-development-android-fictional-character-mobile-app-development-thumbnail.png" alt="Android" width="120" height="100">
+<img src="https://img.icons8.com/ios-filled/344/ios-logo.png" alt="iOS" width="120" height="100">
 <img src="https://img.icons8.com/color/452/git.png" alt="Git" width="120" height="70">
-<img src="https://img.icons8.com/color/344/visual-studio-code-2019.png" alt="VSCode" width="120" height="70">
+<img src="https://img.icons8.com/color/344/visual-studio-code-2019.png" alt="VSCode" width="120" height="100">
 </p>
 
 </br>
