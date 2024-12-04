@@ -1,4 +1,4 @@
-# Konichiwa 👋
+# Namste 👋
 
 <div align="center">
 <img height="300" width="700" alt="GIF" align="center" src="https://github.com/Karan-Trips/Karan-Trips/blob/main/assets/208593.gif">
