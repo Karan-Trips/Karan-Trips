@@ -85,16 +85,19 @@ Most used languages in my repositories:
 
 ---
 
-## 💻 Competitive Coding
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  <b>Competitive Programming</b>
+<br>
 
-<p align="center">
-  <a href="YOUR_HACKER_RANK_PROFILE_URL">
-    <img alt="HackerRank" width="100" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Programming-Languages/hackerrank.svg">
+<p align="left"> 
+  <a href="https://www.hackerrank.com/profile/karanboss652" target="_blank"> 
+    <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white"/>
   </a>
-  <a href="YOUR_LEETCODE_PROFILE_URL">
-    <img alt="LeetCode" width="100" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Programming-Languages/leetcode.svg">
+  <a href="https://leetcode.com/problemset/" target="_blank"> 
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=d16c06"/>
   </a>
 </p>
+
+<br>
 
 ---
 
@@ -120,8 +123,9 @@ Most used languages in my repositories:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub & GitLab Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Karan-Trips&&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://gitlab-readme-stats.vercel.app/api?username=Karan-Trips&show_icons=true&theme=radical" alt="GitLab Stats">
 </p>
