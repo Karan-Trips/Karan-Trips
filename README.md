@@ -127,5 +127,5 @@ Most used languages in my repositories:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Karan-Trips&&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://gitlab-readme-stats.vercel.app/api?username=Karan-Trips&show_icons=true&theme=radical" alt="GitLab Stats">
+
 </p>
