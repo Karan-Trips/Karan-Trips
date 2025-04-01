@@ -6,32 +6,36 @@
 
 ## About Me 💬
 
-- I'm a **24-year-old Flutter Developer** with **1.5 years** of experience from **India**.  
-- Developed **multiple self-use apps** and **successfully deployed 3 apps** on Play Store and App Store.  
-- **Optimized app startup time by 30%** in high-traffic applications.  
-- **Reduced app size by 50%** through advanced optimization techniques.  
-- Migrated **legacy codebases** to modern architectures for better maintainability and performance.  
-- Built and managed projects across industries like **finance, education, banking, social media, and chat applications**.
+-   I'm a **24-year-old Flutter Developer** with **1.5 years** of experience from **India**.
+-   Developed **multiple self-use apps** and **successfully deployed 3 apps** on Play Store and App Store.
+-   **Optimized app startup time by 30%** in high-traffic applications.
+-   **Reduced app size by 50%** through advanced optimization techniques.
+-   Migrated **legacy codebases** to modern architectures for better maintainability and performance.
+-   Built and managed projects across industries like **finance, education, banking, social media, and chat applications**.
+-   **Available for Freelance Opportunities.**
 
 ---
 
 ## 🚀 What I'm Learning
-- ✨ **Flutter** for **Mobile, Web & Desktop Applications**
-- ✨ **RESTful API Design & Integration** with **Retrofit**
-- ✨ **State Management** with **MobX, Provider, Bloc, GetX, Riverpod**
-- ✨ **Advanced UI/UX designs** with custom widgets and animations
+
+-   ✨   **Flutter** for **Mobile, Web & Desktop Applications**
+-   ✨   **RESTful API Design & Integration** with **Retrofit**
+-   ✨   **State Management** with **MobX, Provider, Bloc, GetX, Riverpod**
+-   ✨   **Advanced UI/UX designs** with custom widgets and animations
 
 ---
 
 ## 🎮 Hobbies
-- ✨ Building **Scalable Mobile Apps**
-- ✨ Gaming
-- ✨ Watching Anime
-- ✨ Exploring Backend Technologies
+
+-   ✨   Building **Scalable Mobile Apps**
+-   ✨   Gaming
+-   ✨   Watching Anime
+-   ✨   Exploring Backend Technologies
 
 ---
 
 ## 👨‍💻 Skills & Tools
+
 <p align="center">
   <img src="https://img.icons8.com/color/452/flutter.png" alt="Flutter" width="100">
   <img src="https://img.icons8.com/color/452/dart.png" alt="Dart" width="100">
@@ -44,16 +48,17 @@
 ---
 
 ## 🛠️ Projects & Experience
-- **Travel Companion App** – Integrated **Retrofit**, Google Maps API, Firebase Authentication.
-- **E-commerce App** – Built with **MobX**, RESTful APIs for transactions.
-- **Personal Finance App** – Used **fl_chart** for analytics, **Dio & Retrofit** for cloud sync.
-- **Weather App** – Live weather updates via REST API & custom UI.
-- **Flutter Portfolio** – A fully responsive portfolio app built with **Flutter**, designed to work seamlessly on **Mobile, Web, and Desktop**. Features include:
-  - Interactive and dynamic UI with smooth animations.
-  - Showcases **projects, skills, experience, and contact details**.
-  - Integrated with **Firebase** for real-time updates.
-  - **Dark & Light Mode support** for better user experience.
-  - Hosted on **Web and available as a Mobile/Desktop app**.
+
+-   **Travel Companion App** – Integrated **Retrofit**, Google Maps API, Firebase Authentication.
+-   **E-commerce App** – Built with **MobX**, RESTful APIs for transactions.
+-   **Personal Finance App** – Used **fl_chart** for analytics, **Dio & Retrofit** for cloud sync.
+-   **Weather App** – Live weather updates via REST API & custom UI.
+-   **Flutter Portfolio** – A fully responsive portfolio app built with **Flutter**, designed to work seamlessly on **Mobile, Web, and Desktop**. Features include:
+    -   Interactive and dynamic UI with smooth animations.
+    -   Showcases **projects, skills, experience, and contact details**.
+    -   Integrated with **Firebase** for real-time updates.
+    -   **Dark & Light Mode support** for better user experience.
+    -   Hosted on **Web and available as a Mobile/Desktop app**.
 
 ### 🌐 Check out my live portfolio here: [Karan's Portfolio](https://karan-portfolio-25.netlify.app/) 🚀
 
@@ -63,7 +68,47 @@
 
 ---
 
+## 🏆 GitHub Rewards
+
+<p align="center">
+  </p>
+
+---
+
+## 🗣️ Languages
+
+Most used languages in my repositories:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan-Trips&layout=compact" alt="Top Languages">
+</p>
+
+---
+
+## 💻 Competitive Coding
+
+<p align="center">
+  <a href="YOUR_HACKER_RANK_PROFILE_URL">
+    <img alt="HackerRank" width="100" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Programming-Languages/hackerrank.svg">
+  </a>
+  <a href="YOUR_LEETCODE_PROFILE_URL">
+    <img alt="LeetCode" width="100" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Programming-Languages/leetcode.svg">
+  </a>
+</p>
+
+---
+
+## <b>💪Quote || Fact</b>
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines="First,+solve+the+problem.+Then,+write+the+code".;++"Great+Developers+never+stop+learning".)](https://git.io/typing-svg)
+
+<br>
+
+---
+
 ## 📬 Contact Me
+
 <p align="center">
   <a href="mailto:karanboss652@gmail.com">
     <img alt="Gmail" width="100" src="https://img.icons8.com/fluent/452/gmail.png">
@@ -76,6 +121,7 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Karan-Trips&&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
