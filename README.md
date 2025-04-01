@@ -1,7 +1,41 @@
+<style>
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+  100% { transform: scale(1); }
+}
+
+@keyframes glow {
+  0% { box-shadow: 0 0 10px rgba(255, 215, 0, 0.5); }
+  50% { box-shadow: 0 0 20px rgba(255, 215, 0, 1); }
+  100% { box-shadow: 0 0 10px rgba(255, 215, 0, 0.5); }
+}
+
+.animated-text {
+  animation: fadeIn 1s ease-in-out;
+}
+
+.animated-image {
+  animation: pulse 2s infinite;
+}
+
+.animated-portfolio {
+  display: inline-block;
+  padding: 10px;
+  border-radius: 10px;
+  animation: glow 2s infinite alternate;
+}
+</style>
+
 # Namaste 👋  
 
 <div align="center">  
-<img height="300" width="700" alt="GIF" src="https://github.com/Karan-Trips/Karan-Trips/blob/main/assets/208593.gif">  
+<img class="animated-image" height="300" width="700" alt="GIF" src="https://github.com/Karan-Trips/Karan-Trips/blob/main/assets/208593.gif">  
 </div>  
 
 ## About Me 💬  
@@ -32,7 +66,7 @@
 ---
 
 ## 👨‍💻 Skills & Tools  
-<p align="center">  
+<p align="center" class="animated-text">  
 <img src="https://img.icons8.com/color/452/flutter.png" alt="Flutter" width="100">  
 <img src="https://img.icons8.com/color/452/dart.png" alt="Dart" width="100">  
 <img src="https://img.icons8.com/color/344/firebase.png" alt="Firebase" width="100">  
@@ -48,11 +82,22 @@
 - **E-commerce App** – Built with **MobX**, RESTful APIs for transactions.  
 - **Personal Finance App** – Used **fl_chart** for analytics, **Dio & Retrofit** for cloud sync.  
 - **Weather App** – Live weather updates via REST API & custom UI.  
+- **Flutter Portfolio** – A fully responsive portfolio app built with **Flutter**, designed to work seamlessly on **Mobile, Web, and Desktop**. Features include:  
+  - Interactive and dynamic UI with smooth animations.  
+  - Showcases **projects, skills, experience, and contact details**.  
+  - Integrated with **Firebase** for real-time updates.  
+  - **Dark & Light Mode support** for better user experience.  
+  - Hosted on **Web and available as a Mobile/Desktop app**.  
+  
+### 🌐 Check out my live portfolio here: <span class="animated-portfolio">[Karan's Portfolio](https://karan-portfolio-25.netlify.app/) 🚀</span>  
+<div align="center" class="animated-portfolio">  
+<img src="https://karan-portfolio-25.netlify.app/assets/portfolio-preview.gif" alt="Portfolio Preview" width="600">  
+</div>  
 
 ---
 
 ## 📬 Contact Me  
-<p>  
+<p class="animated-text">  
 <a href="mailto:karanboss652@gmail.com">  
 <img alt="Gmail" width="100" src="https://img.icons8.com/fluent/452/gmail.png">  
 </a>  
@@ -65,5 +110,5 @@
 
 ## 📊 GitHub Stats  
 <p align="center">  
-<img src="https://github-readme-stats.vercel.app/api?username=Karan-Trips&&show_icons=true&theme=radical" alt="GitHub Stats">  
+<img class="animated-image" src="https://github-readme-stats.vercel.app/api?username=Karan-Trips&&show_icons=true&theme=radical" alt="GitHub Stats">  
 </p>
