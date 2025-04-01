@@ -68,13 +68,17 @@
 
 ---
 
-## 🏆 GitHub Rewards
+## 🏆 GitHub Achievements & Skills
 
 <p align="center">
-  </p>
+  <img src="https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge">
+  <img src="https://img.shields.io/badge/Dart-00B4AB?style=for-the-badge&logo=dart&logoColor=white" alt="Dart Badge">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Badge">
+  <img src="https://img.shields.io/badge/API-9C27B0?style=for-the-badge&logo=api&logoColor=white" alt="API Badge">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
+</p>
 
 ---
-
 ## 🗣️ Languages
 
 Most used languages in my repositories:
