@@ -6,7 +6,7 @@
 
 ## About Me 💬
 
--   I'm a **24-year-old Flutter Developer** with **1.5 years** of experience from **India**.
+-   I'm a **24-year-old Flutter Developer** with **1.8 years** of experience from **India**.
 -   Developed **multiple self-use apps** and **successfully deployed 3 apps** on Play Store and App Store.
 -   **Optimized app startup time by 30%** in high-traffic applications.
 -   **Reduced app size by 50%** through advanced optimization techniques.
