@@ -1,135 +1,78 @@
-# Namaste 👋
+# Namaste, I'm Karan Tripathi 👋 
 
 <div align="center">
-  <img height="300" width="700" alt="GIF" src="https://github.com/Karan-Trips/Karan-Trips/blob/main/assets/208593.gif">
+  <img height="300" width="100%" alt="Developer Animation" src="https://github.com/Karan-Trips/Karan-Trips/blob/main/assets/208593.gif?raw=true">
 </div>
 
-## About Me 💬
+## 🚀 Professional Overview
 
--   I'm a **24-year-old Flutter Developer** with **1.8 years** of experience from **India**.
--   Developed **multiple self-use apps** and **successfully deployed 3 apps** on Play Store and App Store.
--   **Optimized app startup time by 30%** in high-traffic applications.
--   **Reduced app size by 50%** through advanced optimization techniques.
--   Migrated **legacy codebases** to modern architectures for better maintainability and performance.
--   Built and managed projects across industries like **finance, education, banking, social media, and chat applications**.
--   **Available for Freelance Opportunities.**
+I am a **Senior Flutter Developer** with **2.5+ years** of industry experience in building high-performance, scalable mobile and web applications. My expertise lies in architecting clean, maintainable codebases and optimizing user experiences.
 
----
-
-## 🚀 What I'm Learning
-
--   ✨   **Flutter** for **Mobile, Web & Desktop Applications**
--   ✨   **RESTful API Design & Integration** with **Retrofit**
--   ✨   **State Management** with **MobX, Provider, Bloc, GetX, Riverpod**
--   ✨   **Advanced UI/UX designs** with custom widgets and animations
+- 🛠️ **Industry Impact:** Delivered **4+ Enterprise Projects** and **2+ successful Freelance solutions**.
+- ⚡ **Performance Expert:** Optimized app startup times by **30%** and reduced app sizes by **50%**.
+- 🏗️ **Architectural Specialist:** Expert in **Clean Architecture**, MVVM, and TDD.
+- 📱 **Store Presence:** 3+ Applications successfully deployed on **Play Store & App Store**.
+- 🌍 **Domain Experience:** Fintech, EdTech, Banking, Social Media, and Real-time Chat.
 
 ---
 
-## 🎮 Hobbies
+## 👨‍💻 Tech Stack & Tools
 
--   ✨   Building **Scalable Mobile Apps**
--   ✨   Gaming
--   ✨   Watching Anime
--   ✨   Exploring Backend Technologies
-
----
-
-## 👨‍💻 Skills & Tools
-
-<p align="center">
-  <img src="https://img.icons8.com/color/452/flutter.png" alt="Flutter" width="100">
-  <img src="https://img.icons8.com/color/452/dart.png" alt="Dart" width="100">
-  <img src="https://img.icons8.com/color/344/firebase.png" alt="Firebase" width="100">
-  <img src="https://img.icons8.com/color/344/api-settings.png" alt="API Design" width="100">
-  <img src="https://img.icons8.com/color/452/git.png" alt="Git" width="100">
-  <img src="https://img.icons8.com/color/344/visual-studio-code-2019.png" alt="VSCode" width="100">
-</p>
+| Category | Technologies |
+| :--- | :--- |
+| **Mobile & Web** | **Flutter**, **Dart**, Android Studio, Xcode |
+| **State Management** | **BLoC**, **Riverpod**, MobX, GetX, Provider |
+| **Backend & Cloud** | **Firebase** (Firestore, Functions, Auth), **RESTful APIs** |
+| **Networking** | **Retrofit**, **Dio**, WebSocket, GraphQL |
+| **VCS & DevOps** | **Git**, GitHub Actions, **GitLab CI/CD**, Bitbucket |
+| **Database** | Hive, Sqflite, ObjectBox |
 
 ---
 
 ## 🛠️ Projects & Experience
 
--   **Travel Companion App** – Integrated **Retrofit**, Google Maps API, Firebase Authentication.
--   **E-commerce App** – Built with **MobX**, RESTful APIs for transactions.
--   **Personal Finance App** – Used **fl_chart** for analytics, **Dio & Retrofit** for cloud sync.
--   **Weather App** – Live weather updates via REST API & custom UI.
--   **Flutter Portfolio** – A fully responsive portfolio app built with **Flutter**, designed to work seamlessly on **Mobile, Web, and Desktop**. Features include:
-    -   Interactive and dynamic UI with smooth animations.
-    -   Showcases **projects, skills, experience, and contact details**.
-    -   Integrated with **Firebase** for real-time updates.
-    -   **Dark & Light Mode support** for better user experience.
-    -   Hosted on **Web and available as a Mobile/Desktop app**.
+### 🏢 Corporate & Freelance Portfolio
+* **Fintech & Banking Solutions:** Built secure transaction modules with advanced encryption and real-time ledger updates.
+* **EdTech Ecosystem:** Developed a seamless video streaming platform with offline caching and interactive assessments.
+* **Real-time Social/Chat:** Integrated WebSockets for low-latency messaging and media sharing.
+* **Travel Companion App:** Integrated Google Maps API, Firebase, and Retrofit for global trip planning.
 
-### 🌐 Check out my live portfolio here: [Karan's Portfolio](https://karan-portfolio-25.netlify.app/) 🚀
+### 🧪 Personal Innovations (5+ Projects)
+* **SEV App:** A community-centric platform for EV owners featuring Authentication, Garage management, and Event modules.
+* **AI Money Manager:** Smart finance tracker utilizing `fl_chart` for analytics and automated cloud sync.
+* **[Karan's Live Portfolio](https://karan-portfolio-25.netlify.app/):** A fully responsive cross-platform portfolio (Web/Mobile/Desktop) with Dark/Light mode.
+
+---
+
+## 📊 GitHub Ecosystem & Stats
 
 <div align="center">
-  <img src="https://karan-portfolio-25.netlify.app/assets/portfolio-preview.gif" alt="Portfolio Preview" width="600">
+  <img src="https://github-readme-stats.vercel.app/api?username=Karan-Trips&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Karan's Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karan-Trips&theme=radical&hide_border=true" alt="Karan's Streak" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan-Trips&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karan-Trips&theme=radical" alt="Profile Details" width="48%" />
 </div>
 
 ---
 
-## 🏆 GitHub Achievements & Skills
+## 📬 Let's Connect!
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge">
-  <img src="https://img.shields.io/badge/Dart-00B4AB?style=for-the-badge&logo=dart&logoColor=white" alt="Dart Badge">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Badge">
-  <img src="https://img.shields.io/badge/API-9C27B0?style=for-the-badge&logo=api&logoColor=white" alt="API Badge">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
-</p>
+I am **available for Freelance Opportunities** and technical collaborations.
 
----
-## 🗣️ Languages
-
-Most used languages in my repositories:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan-Trips&layout=compact" alt="Top Languages">
-</p>
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  <b>Competitive Programming</b>
-<br>
-
-<p align="left"> 
-  <a href="https://www.hackerrank.com/profile/karanboss652" target="_blank"> 
-    <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/problemset/" target="_blank"> 
-    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=d16c06"/>
-  </a>
-</p>
-
-<br>
-
----
-
-## <b>💪Quote || Fact</b>
-<br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines="First,+solve+the+problem.+Then,+write+the+code".;++"Great+Developers+never+stop+learning".)](https://git.io/typing-svg)
-
-<br>
-
----
-
-## 📬 Contact Me
-
-<p align="center">
+<p align="left">
   <a href="mailto:karanboss652@gmail.com">
-    <img alt="Gmail" width="100" src="https://img.icons8.com/fluent/452/gmail.png">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/karan-shankar-tripathi-86037b1b3/">
-    <img alt="LinkedIn" width="100" src="https://img.icons8.com/color/452/linkedin.png">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub & GitLab Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karan-Trips&&show_icons=true&theme=radical" alt="GitHub Stats">
-
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=9C27B0&center=true&vCenter=true&width=600&lines=Solving+problems,+one+line+at+a+time.;Expert+in+Flutter+%26+Dart+Development.;Let's+build+something+extraordinary." alt="Typing SVG" />
+</div>
