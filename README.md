@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🚀 Karan Tripathi | Flutter Architect & Tech Entrepreneur
+# 🚀 Karan Tripathi | Flutter Architect & Software Engineering 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Senior+Flutter+Developer+%7C+2.5%2B+Years;Mobile+%26+Web+Solutions+Architect;Founder+%40+KarQR+%7C+Building+Digital+Future;Clean+Code+%7C+Scalable+Architecture;Available+for+Freelance+%26+Collaborations" alt="Typing SVG" />
 
@@ -64,29 +64,49 @@ class KaranTripathi extends FlutterDeveloper {
 ### 🎨 What Makes KarQR Special?
 ```javascript
 const KarQR = {
-  vision: "Simplifying digital interactions through smart QR solutions",
-  technology: ["Flutter", "Firebase", "HTML5", "CSS3", "RESTful APIs"],
-  offerings: [
-    "🎫 Dynamic QR Code Generation",
-    "📊 Analytics Dashboard",
-    "💳 Digital Business Cards",
-    "🔗 Smart Link Management",
-    "📱 Mobile-First Design"
+  vision: "Transforming simple QR scans into smart, data-driven customer experiences",
+
+  techStack: {
+    frontend: ["HTML5", "CSS3", "JavaScript (Vanilla)"],
+    backend: ["Firebase (Firestore - optional/analytics ready)"],
+    hosting: ["Firebase Hosting"],
+    deployment: ["GitHub Actions (CI/CD)"]
+  },
+
+  coreFeatures: [
+    "🎫 Dynamic QR Menu System",
+    "📊 Real-Time Analytics Dashboard",
+    "📱 Mobile-First Responsive UI",
+    "🌐 Multi-language Support (Gujarati + English)",
+    "⚡ Fast & Lightweight Web App",
+    "🎨 Premium UI (Glassmorphism + Animations)"
   ],
+
+  analytics: [
+    "📈 Total & Daily Scan Tracking",
+    "👥 Unique Visitors & Sessions",
+    "⏰ Peak Time Analysis",
+    "🔥 Most Viewed Items",
+    "📊 Customer Behavior Insights"
+  ],
+
+  businessFeatures: [
+    "🏪 Restaurant Profile Management",
+    "🍽️ Menu Management with Images",
+    "🏷️ Bestseller & Spicy Level Tagging",
+    "📲 WhatsApp Report (Free Click-to-Chat)",
+    "🎯 Data-Driven Recommendations"
+  ],
+
+  architecture: "Frontend-first (no heavy backend), scalable with Firebase",
+
   status: "🚀 MVP in Development",
-  target: "Small to Medium Businesses & Freelancers"
-}
+
+  target: "Restaurants, Cafes & Small Businesses",
+
+  goal: "Build a restaurant intelligence platform, not just a QR menu tool"
+};
 ```
-
-### 📈 KarQR Features in Development
-
-| Feature | Technology Stack | Status |
-|---------|-----------------|--------|
-| **QR Generator Engine** | Flutter + Dart | ✅ Completed |
-| **User Dashboard** | HTML/CSS/JS + Firebase | 🔄 In Progress |
-| **Analytics Module** | Flutter + fl_chart | 🔄 In Progress |
-| **Payment Integration** | Razorpay/Stripe | 📋 Planned |
-| **Admin Panel** | Flutter Web | 📋 Planned |
 
 <div align="center">
   
@@ -489,12 +509,12 @@ Planning     ██░░░░░░░░░░░░░░░░░░   10%
 
 <div align="center">
 
-## 🎯 2024 Goals
+## 🎯 2026 Goals
 
-- [ ] Launch **KarQR** MVP to 1000+ users
+- [ ] Launch **KarQR** MVP to 100+ users
 - [ ] Contribute to 5+ open-source Flutter packages
-- [ ] Achieve 10K+ GitHub profile visits
-- [ ] Mentor 20+ aspiring Flutter developers
+- [ ] Achieve 5K+ GitHub profile visits
+- [ ] Mentor 10+ aspiring Flutter developers
 - [ ] Publish 3+ technical articles/tutorials
 - [x] Build this awesome README 😎
 
